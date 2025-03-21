@@ -12,7 +12,7 @@ Using insights from banking analysis, the website was designed like a digital bl
 - Google tools for SEO and keyword research
 - Subscriber sign-up and comment section for engagement
   
-##Visual Theme
+## Visual Theme
 The site used a soft, readable color scheme:
 
 - Blue for structure and calm tone
